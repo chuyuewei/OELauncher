@@ -1,4 +1,4 @@
-# OELauncher
+# Output Error Launcher
 
 [![GitHub license](https://img.shields.io/github/license/chuyuewei/Otherworld-Expedition-Launcher)](https://github.com/chuyuewei/Otherworld-Expedition-Launcher/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/chuyuewei/Otherworld-Expedition-Launcher)](https://github.com/chuyuewei/Otherworld-Expedition-Launcher/stargazers)
